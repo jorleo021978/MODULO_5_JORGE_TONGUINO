@@ -1,0 +1,17 @@
+{
+  "name": "clase_3",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "trabajos de aprendizaje",
+  "main": "init.js",
+  "scripts": {
+    "start": "nodemon init.js",
+    "watch": "node async.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Tonguino",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
