@@ -1,0 +1,24 @@
+{
+  "name": "jorge_tinguino_tarea_dos",
+  "version": "1.2.0",
+  "description": "proyecto de aprendizaje",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index1c.js",
+    "watch1": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FullnessCompany",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chance": "^1.1.12"
+  }
+}
