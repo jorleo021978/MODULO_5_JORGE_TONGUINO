@@ -1,0 +1,14 @@
+{
+  "name": "clase_4",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "trabajo de clase cuatro",
+  "main": "generator.js",
+  "scripts": {
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge",
+  "license": "ISC"
+}
