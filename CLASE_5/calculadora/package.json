@@ -1,0 +1,9 @@
+{
+    "name": "calculadora",
+    "version": "1.0.0",
+    "main": "calculadora.js",
+    "scripts": {
+      "start": "node calculadora.js"
+    }
+  }
+  
