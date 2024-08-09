@@ -14,8 +14,10 @@ El servidor lee los datos de los productos desde un archivo llamado `products.js
 
 Para iniciar el servidor, ejecuta:
 
-http://localhost:3002/products // todos los prodictos 
-http://localhost:3002/products/1 // un solo producto po el ID
+utilizando postmam se lee los sigiente puertos:
+
+localhost:3002/products // todos los prodictos 
+localhost:3002/products/1 // un solo producto po el ID
 
 AUTOR; JORGE TONGUINO
 
