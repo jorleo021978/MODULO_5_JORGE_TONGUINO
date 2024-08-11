@@ -1,0 +1,43 @@
+[
+  {
+    "id": 2,
+    "name": "Jorge Leonel Tonguino",
+    "age": 46,
+    "average": "9.5",
+    "stature": "1.62",
+    "email": "jorleo0202@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Leonel Tonguino",
+    "age": 46,
+    "average": "9.5",
+    "stature": "1.62",
+    "email": "jorleo@gmail.com"
+  },
+  {},
+  {
+    "id": 1,
+    "name": "Leonel Tonguino Agurre",
+    "age": 22,
+    "average": "9.5",
+    "stature": "1.72",
+    "email": "jor0202@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Leonel Tonguino Agurre",
+    "age": 22,
+    "average": "9.5",
+    "stature": "1.72",
+    "email": "jor0202@gmail.com"
+  },
+  {
+    "id": 5,
+    "name": "Yaned Cundar",
+    "age": 42,
+    "average": "8.5",
+    "stature": "1.60",
+    "email": "cundar0202@gmail.com"
+  }
+]
