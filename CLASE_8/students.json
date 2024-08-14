@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Jorge Leonel Tonguino",
+    "age": "48",
+    "stature": "1.62",
+    "identity": "113456",
+    "email": "jorleo@gmail.com",
+    "user": "jorleo",
+    "password": "00005"
+  },
+  {
+    "id": 2,
+    "name": "Leonel Tonguino",
+    "age": "46",
+    "stature": "1.62",
+    "identity": "123456",
+    "email": "jorleo1@gmail.com",
+    "user": "jorleo",
+    "password": "00001"
+  },
+  {
+    "id": 3,
+    "name": "Fabiola Aguirre",
+    "age": "23",
+    "stature": "1.52",
+    "identity": "123456",
+    "email": "jorleo01@gmail.com",
+    "user": "jorleo",
+    "password": "00001"
+  },
+  {
+    "id": 4,
+    "name": "Diego Alvarez",
+    "age": "33",
+    "stature": "1.62",
+    "identity": "123456",
+    "email": "Diego@gmail.com",
+    "user": "jorleo",
+    "password": "00005"
+  },
+  {
+    "id": 5,
+    "name": "Leonel Tonguino",
+    "age": "46",
+    "stature": "1.62",
+    "identity": "113457",
+    "email": "alber@gmail.com",
+    "user": "albert",
+    "password": "00002"
+  },
+  {
+    "id": 6,
+    "name": "Andres Alvarez",
+    "age": "38",
+    "stature": "1.62",
+    "identity": "123456",
+    "email": "Diego20@gmail.com",
+    "user": "jorleo",
+    "password": "00005"
+  },
+  {
+    "id": 7,
+    "name": "Andres Alvarez",
+    "age": "38",
+    "stature": "1.62",
+    "identity": "123457",
+    "email": "Diego201@gmail.com",
+    "user": "jorleom",
+    "password": "00015"
+  },
+  {
+    "id": 8,
+    "name": "Andres Alvarez Aguire",
+    "age": "28",
+    "stature": "1.62",
+    "identity": "123458",
+    "email": "Dieg201@gmail.com",
+    "user": "jorleomt",
+    "password": "00016"
+  },
+  {
+    "id": 9,
+    "name": "Andres Alvarez Aguire",
+    "age": "28",
+    "stature": "1.62",
+    "identity": "123459",
+    "email": "Diegui201@gmail.com",
+    "user": "dileomt",
+    "password": "00116"
+  }
+]
