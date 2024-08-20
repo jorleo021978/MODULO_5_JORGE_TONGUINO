@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Pérez",
+    "email": "juan1perez@example.com",
+    "identity": "123456799",
+    "user": "juanpa",
+    "password": "password125",
+    "age": 20,
+    "course": "Matemáticas"
+  },
+  {
+    "id": 2,
+    "name": "Juan Pérez Rosero",
+    "email": "juan.perez@example.com",
+    "identity": "123456789",
+    "user": "juanp",
+    "password": "password123",
+    "age": 25,
+    "course": "Matemáticas"
+  },
+  {
+    "id": 3,
+    "name": "jose D Rosero",
+    "email": "joseperez@example.com",
+    "identity": 123456779,
+    "user": "jose01",
+    "password": "password123",
+    "age": 25,
+    "course": "Matemáticas"
+  },
+  {
+    "id": 4,
+    "name": "jose D Rosero",
+    "email": "josrez@example.com",
+    "identity": 123459779,
+    "user": "josed01",
+    "password": "password123",
+    "age": 25,
+    "course": "Matemáticas"
+  },
+  {
+    "id": 5,
+    "name": "jose D Rosero",
+    "email": "josrez5@example.com",
+    "identity": 123459770,
+    "user": "josed012",
+    "password": "password123",
+    "age": 25,
+    "course": "Matemáticas"
+  },
+  {
+    "id": 6,
+    "name": "jose D Rosero",
+    "email": "josrez6@example.com",
+    "identity": 123459772,
+    "user": "josed06",
+    "password": "password123",
+    "age": 25,
+    "course": "Matemáticas"
+  }
+]

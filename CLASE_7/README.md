@@ -166,7 +166,7 @@ Para ejecutar el servidor, asegúrate de estar en la misma carpeta que index.js 
 node index.js
 
 
-Accede a la API a través de http://localhost:3002 en tu navegador o utilizando herramientas como Postman para probar las rutas mencionadas.
+Accede a la API a través de localhost:3002 en tu navegador o utilizando herramientas como Postman para probar las rutas mencionadas.
 
 ## Archivos
 

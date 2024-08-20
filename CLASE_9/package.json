@@ -1,0 +1,19 @@
+{
+  "name": "clase_9",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "trabajo de clase 9",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Tonguino",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
